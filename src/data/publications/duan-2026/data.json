@@ -1,0 +1,21 @@
+{
+  "title": "Mitigating Reward Hacking in RLHF via Bayesian Non-negative Reward Modeling",
+  "authors": [
+    "Zhibin Duan",
+    "Guowei Rong",
+    "Zhuo Li",
+    "Bo Chen",
+    "Mingyuan Zhou",
+    "Dandan Guo"
+  ],
+  "venue": "ICML",
+  "year": 2026,
+  "tags": [
+    "CCF-A",
+    "Spotlight"
+  ],
+  "coverImage": "/publications/duan-2026/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2602.10623",
+  "codeUrl": "",
+  "projectUrl": ""
+}

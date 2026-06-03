@@ -1,0 +1,120 @@
+{
+  "name": "郭丹丹",
+  "photo": "/members/teacher/guo-dandan/photo.png",
+  "role": "teacher",
+  "position": "教授、博士生导师",
+  "template": "academic",
+  "bio": "郭丹丹，吉林大学人工智能学院准聘教授，博士生导师。研究方向为模式识别与机器学习。理论上，包括概率模型构建与统计推断，元学习，算法公平性，最优传输理论等。所涉及的应用有图像生成及分类、文本分析、自然语言生成等。目前，专注于以数据为中心的机器学习算法研究，如大模型学习、不平衡分类、表格学习等。在机器学习领域国际顶级会议（NeurIPS，ICML，ICLR）、顶级期刊（IEEE TIP，IJCV，IEEE TNNLS）等发表共计40余篇论文。",
+  "researchInterests": [
+    "模式识别与机器学习",
+    "概率模型构建与统计推断",
+    "元学习",
+    "算法公平性",
+    "最优传输理论",
+    "大模型学习",
+    "不平衡分类",
+    "表格学习"
+  ],
+  "joinDate": "2023-02",
+  "education": [
+    {
+      "degree": "硕博连读",
+      "major": "信号与信息处理",
+      "advisor": "导师为陈渤老师",
+      "institution": "西安电子科技大学",
+      "year": "2014.09 - 2020.08"
+    },
+    {
+      "degree": "本科",
+      "major": "光信息科学与技术",
+      "department": "信息与通信工程学院",
+      "institution": "中北大学",
+      "year": "2010.09 - 2014.06"
+    }
+  ],
+  "workExperience": [
+    {
+      "organization": "阿卜杜拉国王科技大学 (KAUST)",
+      "period": "2025.03 - 至今",
+      "role": "访问学者",
+      "department": "AI Initiative",
+      "description": "在 LSTM 之父 Juergen Schmidhuber 教授课题组进行访问研究，聚焦深度学习与强化学习前沿方向"
+    },
+    {
+      "organization": "吉林大学人工智能学院",
+      "period": "2023.02 - 至今",
+      "role": "教授、博士生导师",
+      "department": "人工智能学院",
+      "description": "从事人工智能领域的教学与科研工作，研究方向包括贝叶斯深度学习、不确定性建模、最优传输理论、联邦学习等"
+    },
+    {
+      "organization": "香港中文大学（深圳）",
+      "period": "2020.12 - 2023.02",
+      "role": "博士后研究员",
+      "department": "数据科学学院",
+      "description": "在查宏远教授课题组从事博士后研究，研究贝叶斯非参模型、最优传输与深度学习的结合"
+    }
+  ],
+  "awards": [],
+  "projects": [
+    {
+      "name": "国家自然科学基金青年基金（青基）：分布匹配驱动的不平衡分类样本扩充问题研究",
+      "period": "",
+      "role": "主持",
+      "description": ""
+    },
+    {
+      "name": "Discrete Dynamical Systems (DDS) for COVID-19 Forecast",
+      "period": "",
+      "role": "Core Contributors",
+      "description": ""
+    }
+  ],
+  "teaching": [],
+  "service": [],
+  "socialLinks": {
+    "email": "guodandan@jlu.edu.cn",
+    "scholar": "https://scholar.google.com.hk/citations?user=QLOY4JkAAAAJ&hl=zh-CN"
+  },
+  "publicationSlugs": [
+    "duan-2026",
+    "ni-2026",
+    "gao-2026",
+    "liu-2026",
+    "wang-2026",
+    "ren-2026",
+    "ye-2026",
+    "zhang-2026",
+    "ye-2025",
+    "ye-2025b",
+    "li-2025",
+    "li-2025b",
+    "ni-2025",
+    "ren-2025",
+    "shi-2025",
+    "shi-2025b",
+    "ye-2025c",
+    "chen-2025",
+    "ren-2024",
+    "gao-2024",
+    "ye-2024",
+    "guo-2023",
+    "gao-2023",
+    "guo-2022",
+    "guo-2022b",
+    "guo-2022c",
+    "guo-2022d",
+    "guo-2022e",
+    "wang-2022",
+    "guo-2021",
+    "guo-2020",
+    "guo-2020b",
+    "guo-2018",
+    "hu-2023",
+    "hu-2022",
+    "du-2022",
+    "zhang-2020",
+    "du-2019",
+    "zhang-2018"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "title": "DRL: Decomposed Representation Learning for Tabular Anomaly Detection",
+  "authors": [
+    "Hangting Ye",
+    "He Zhao",
+    "Wei Fan",
+    "Mingyuan Zhou",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "ICLR",
+  "year": 2025,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/ye-2025c/cover.jpg",
+  "paperUrl": "https://openreview.net/forum?id=CJnceDksRd",
+  "codeUrl": "",
+  "projectUrl": ""
+}

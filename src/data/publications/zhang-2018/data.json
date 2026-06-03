@@ -1,0 +1,18 @@
+{
+  "title": "WHAI: Weibull Autoencoding Inference for Deep Topic Modeling",
+  "authors": [
+    "Hao Zhang",
+    "Bo Chen",
+    "Dandan Guo",
+    "Mingyuan Zhou"
+  ],
+  "venue": "ICLR",
+  "year": 2018,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/zhang-2018/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/1803.01328",
+  "codeUrl": "",
+  "projectUrl": ""
+}

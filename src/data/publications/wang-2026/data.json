@@ -1,0 +1,20 @@
+{
+  "title": "Safeguarding LLM Fine-tuning via Push-Pull Distributional Alignment",
+  "authors": [
+    "Haozhong Wang",
+    "Zhuo Li",
+    "Yibo Yang",
+    "He Zhao",
+    "Hongyuan Zha",
+    "Dandan Guo"
+  ],
+  "venue": "ACL",
+  "year": 2026,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/wang-2026/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2601.07200",
+  "codeUrl": "",
+  "projectUrl": ""
+}

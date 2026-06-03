@@ -1,0 +1,20 @@
+{
+  "title": "Beyond Words: Augmenting Discriminative Richness via Diffusions in Unsupervised Prompt learning",
+  "authors": [
+    "Hairui Ren",
+    "Fan Tang",
+    "He Zhao",
+    "Zixuan Wang",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "CVPR",
+  "year": 2025,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/ren-2025/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2504.11930",
+  "codeUrl": "",
+  "projectUrl": ""
+}

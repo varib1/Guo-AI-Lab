@@ -1,0 +1,20 @@
+{
+  "title": "LLM Meeting Decision Trees on Tabular Data",
+  "authors": [
+    "Hangting Ye",
+    "Jinmeng Li",
+    "He Zhao",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "NeurIPS",
+  "year": 2025,
+  "tags": [
+    "CCF-A",
+    "Spotlight"
+  ],
+  "coverImage": "/publications/ye-2025b/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2505.17918",
+  "codeUrl": "",
+  "projectUrl": ""
+}

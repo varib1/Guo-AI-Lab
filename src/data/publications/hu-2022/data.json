@@ -1,0 +1,17 @@
+{
+  "title": "A Label-Aware Autoregressive Framework for Cross-Domain NER",
+  "authors": [
+    "Jinpeng Hu",
+    "He Zhao",
+    "Dandan Guo",
+    "Xiang Wan",
+    "Tsung-Hui Chang"
+  ],
+  "venue": "NAACL Findings",
+  "year": 2022,
+  "tags": [],
+  "coverImage": "/publications/hu-2022/cover.jpg",
+  "paperUrl": "https://aclanthology.org/2022.findings-naacl.171/",
+  "codeUrl": "",
+  "projectUrl": ""
+}

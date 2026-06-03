@@ -1,0 +1,19 @@
+{
+  "title": "FedNPC: Stochastic Noise-driven Post-hoc Classifier Calibration Method for Federated Long-tailed Learning",
+  "authors": [
+    "Jintong Gao",
+    "He Zhao",
+    "Yibo Yang",
+    "Dandan Guo"
+  ],
+  "venue": "CVPR",
+  "year": 2026,
+  "tags": [
+    "CCF-A",
+    "Finding"
+  ],
+  "coverImage": "/publications/gao-2026/cover.jpg",
+  "paperUrl": "https://openaccess.thecvf.com/content/CVPR2026F/papers/Gao_FedNPC_Stochastic_Noise-driven_Post-hoc_Classifier_Calibration_Method_for_Federated_Long-tailed_CVPRF_2026_paper.pdf",
+  "codeUrl": "",
+  "projectUrl": ""
+}

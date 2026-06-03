@@ -1,0 +1,18 @@
+{
+  "title": "Recurrent Hierarchical Topic-Guided RNN for Language Generation",
+  "authors": [
+    "Dandan Guo",
+    "Bo Chen",
+    "Ruiying Lu",
+    "Mingyuan Zhou"
+  ],
+  "venue": "ICML",
+  "year": 2020,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/guo-2020/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/1912.10337",
+  "codeUrl": "",
+  "projectUrl": ""
+}

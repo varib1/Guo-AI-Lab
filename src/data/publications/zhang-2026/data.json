@@ -1,0 +1,21 @@
+{
+  "title": "A Guardrail for Safety Preservation: When Safety-Sensitive Subspace Meets Harmful-Resistant Null-Space",
+  "authors": [
+    "Bingjie Zhang",
+    "Yibo Yang",
+    "Renzhe",
+    "Dandan Guo",
+    "Jindong Gu",
+    "Philip Torr",
+    "Bernard Ghanem"
+  ],
+  "venue": "ICLR",
+  "year": 2026,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/zhang-2026/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2510.14301",
+  "codeUrl": "",
+  "projectUrl": ""
+}

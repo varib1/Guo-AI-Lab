@@ -1,0 +1,18 @@
+{
+  "title": "Deep Poisson Gamma Dynamical Systems",
+  "authors": [
+    "Dandan Guo",
+    "Bo Chen",
+    "Hao Zhang",
+    "Mingyuan Zhou"
+  ],
+  "venue": "NeurIPS",
+  "year": 2018,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/guo-2018/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/1810.11209",
+  "codeUrl": "",
+  "projectUrl": ""
+}

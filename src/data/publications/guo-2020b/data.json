@@ -1,0 +1,19 @@
+{
+  "title": "Variational Temporal Deep Generative Model for Radar HRRP Target Recognition",
+  "authors": [
+    "Dandan Guo",
+    "Bo Chen",
+    "Wenchao Chen",
+    "Mingyuan Zhou",
+    "Hongwei Liu"
+  ],
+  "venue": "IEEE TSP",
+  "year": 2020,
+  "tags": [
+    "中科院1区"
+  ],
+  "coverImage": "/publications/guo-2020b/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2009.13011",
+  "codeUrl": "",
+  "projectUrl": ""
+}

@@ -1,0 +1,20 @@
+{
+  "title": "FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors",
+  "authors": [
+    "Changlong Shi",
+    "He Zhao",
+    "Bingjie Zhang",
+    "Mingyuan Zhou",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "CVPR",
+  "year": 2025,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/shi-2025/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2503.15842",
+  "codeUrl": "",
+  "projectUrl": ""
+}

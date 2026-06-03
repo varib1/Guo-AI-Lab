@@ -1,0 +1,19 @@
+{
+  "title": "FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking",
+  "authors": [
+    "Changlong Shi",
+    "Jinmeng Li",
+    "He Zhao",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "ICLR",
+  "year": 2025,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/shi-2025b/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2503.15111",
+  "codeUrl": "",
+  "projectUrl": ""
+}

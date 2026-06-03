@@ -1,0 +1,18 @@
+{
+  "title": "Distribution Alignment Optimization through Neural Collapse for Long-tailed Classification",
+  "authors": [
+    "Jintong Gao",
+    "He Zhao",
+    "Dandan Guo",
+    "Hongyuan Zha"
+  ],
+  "venue": "ICML",
+  "year": 2024,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/gao-2024/cover.jpg",
+  "paperUrl": "https://openreview.net/forum?id=Hjwx3H6Vci",
+  "codeUrl": "",
+  "projectUrl": ""
+}

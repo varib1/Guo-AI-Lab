@@ -1,0 +1,19 @@
+{
+  "title": "Learning Prototype-oriented Set Representations for Meta-Learning",
+  "authors": [
+    "Dandan Guo",
+    "Long Tian",
+    "Minghe Zhang",
+    "Mingyuan Zhou",
+    "Hongyuan Zha"
+  ],
+  "venue": "ICLR",
+  "year": 2022,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/guo-2022e/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2110.09140",
+  "codeUrl": "",
+  "projectUrl": ""
+}

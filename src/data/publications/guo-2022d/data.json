@@ -1,0 +1,18 @@
+{
+  "title": "Matching Visual Features to Hierarchical Semantic Topics for Image Paragraph Captioning",
+  "authors": [
+    "Dandan Guo",
+    "Ruiying Lu",
+    "Bo Chen",
+    "Mingyuan Zhou"
+  ],
+  "venue": "IJCV",
+  "year": 2022,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/guo-2022d/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2210.04144",
+  "codeUrl": "",
+  "projectUrl": ""
+}

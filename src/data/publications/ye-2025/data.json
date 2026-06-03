@@ -1,0 +1,22 @@
+{
+  "title": "Deep Tabular Representation Corrector",
+  "authors": [
+    "Hangting Ye",
+    "Peng Wang",
+    "Wei Fan",
+    "Xiaozhuang Song",
+    "He Zhao",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "IEEE TPAMI",
+  "year": 2025,
+  "tags": [
+    "CCF-A",
+    "中科院1区"
+  ],
+  "coverImage": "/publications/ye-2025/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2603.16569",
+  "codeUrl": "",
+  "projectUrl": ""
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Learning Fair Representations via Distance Correlation Minimization",
+  "authors": [
+    "Dandan Guo",
+    "Chaojie Wang",
+    "Baoxiang Wang",
+    "Hongyuan Zha"
+  ],
+  "venue": "IEEE TNNLS",
+  "year": 2022,
+  "tags": [
+    "中科院1区"
+  ],
+  "coverImage": "/publications/guo-2022c/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2511.11767",
+  "codeUrl": "",
+  "projectUrl": ""
+}

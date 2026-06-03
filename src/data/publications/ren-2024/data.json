@@ -1,0 +1,20 @@
+{
+  "title": "Modality-Consistent Prompt Tuning with Optimal Transport",
+  "authors": [
+    "Hairui Ren",
+    "Fan Tang",
+    "Huangjie Zheng",
+    "He Zhao",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "IEEE TCSVT",
+  "year": 2024,
+  "tags": [
+    "中科院1区"
+  ],
+  "coverImage": "/publications/ren-2024/cover.jpg",
+  "paperUrl": "https://dl.acm.org/doi/10.1109/TCSVT.2024.3489024",
+  "codeUrl": "",
+  "projectUrl": ""
+}

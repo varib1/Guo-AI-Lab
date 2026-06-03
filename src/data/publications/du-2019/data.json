@@ -1,0 +1,19 @@
+{
+  "title": "Factorized discriminative conditional variational auto-encoder for radar HRRP target recognition",
+  "authors": [
+    "Chuan Du",
+    "Bo Chen",
+    "Bin Xu",
+    "Dandan Guo",
+    "Hongwei Liu"
+  ],
+  "venue": "Signal Processing",
+  "year": 2019,
+  "tags": [
+    "SCI二区"
+  ],
+  "coverImage": "/publications/du-2019/cover.jpg",
+  "paperUrl": "https://www.sciencedirect.com/science/article/pii/S0165168419300155?via%3Dihub",
+  "codeUrl": "",
+  "projectUrl": ""
+}

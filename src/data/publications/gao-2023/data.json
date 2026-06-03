@@ -1,0 +1,18 @@
+{
+  "title": "Enhancing minority classes by mixing: an adaptive optimal transport approach for long-tailed classification",
+  "authors": [
+    "Jintong Gao",
+    "He Zhao",
+    "Zhuo Li",
+    "Dandan Guo"
+  ],
+  "venue": "NeurIPS",
+  "year": 2023,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/gao-2023/cover.jpg",
+  "paperUrl": "https://openreview.net/forum?id=M7FQpIdo0X",
+  "codeUrl": "",
+  "projectUrl": ""
+}

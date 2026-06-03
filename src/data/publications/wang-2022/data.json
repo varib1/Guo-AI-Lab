@@ -1,0 +1,21 @@
+{
+  "title": "Representing Mixtures of Word Embeddings with Topic Embeddings",
+  "authors": [
+    "Dongsheng Wang",
+    "Dandan Guo",
+    "He Zhao",
+    "Huangjie Zheng",
+    "Korawat Tanwisuth",
+    "Bo Chen",
+    "Mingyuan Zhou"
+  ],
+  "venue": "ICLR",
+  "year": 2022,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/wang-2022/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2203.01570",
+  "codeUrl": "",
+  "projectUrl": ""
+}

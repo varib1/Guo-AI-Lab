@@ -1,0 +1,21 @@
+{
+  "title": "PDR: A Plug-and-Play Positional Decay Framework for LLM Pre-training Data Detection",
+  "authors": [
+    "Jinhan Liu",
+    "Yibo Yang",
+    "Ruiying Lu",
+    "Piotr Piękos",
+    "Yimeng Chen",
+    "Peng Wang",
+    "Dandan Guo"
+  ],
+  "venue": "ACL",
+  "year": 2026,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/liu-2026/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2601.06827",
+  "codeUrl": "",
+  "projectUrl": ""
+}

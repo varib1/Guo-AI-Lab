@@ -1,0 +1,19 @@
+{
+  "title": "Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport",
+  "authors": [
+    "Dandan Guo",
+    "Long Tian",
+    "He Zhao",
+    "Mingyuan Zhou",
+    "Hongyuan Zha"
+  ],
+  "venue": "NeurIPS",
+  "year": 2022,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/guo-2022b/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2210.04144",
+  "codeUrl": "",
+  "projectUrl": ""
+}

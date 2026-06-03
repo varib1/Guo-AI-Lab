@@ -1,0 +1,21 @@
+{
+  "title": "Suspicious Object Detection for Millimeter-Wave Images with Multi-View Fusion Siamese Network",
+  "authors": [
+    "Dandan Guo",
+    "Long Tian",
+    "Chuan Du",
+    "Pengfei Xie",
+    "Bo Chen",
+    "Lei Zhang"
+  ],
+  "venue": "IEEE TIP",
+  "year": 2023,
+  "tags": [
+    "CCF-A",
+    "中科院1区"
+  ],
+  "coverImage": "/publications/guo-2023/cover.jpg",
+  "paperUrl": "https://pubmed.ncbi.nlm.nih.gov/37432829/",
+  "codeUrl": "",
+  "projectUrl": ""
+}

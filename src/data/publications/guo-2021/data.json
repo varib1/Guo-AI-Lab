@@ -1,0 +1,18 @@
+{
+  "title": "SAR Automatic Target Recognition based on Supervised Deep Variational Auto-encoding Model",
+  "authors": [
+    "Dandan Guo",
+    "Bo Chen",
+    "Meixi Zheng",
+    "Hongwei Liu"
+  ],
+  "venue": "IEEE TAES",
+  "year": 2021,
+  "tags": [
+    "中科院2区"
+  ],
+  "coverImage": "/publications/guo-2021/cover.jpg",
+  "paperUrl": "https://ieeexplore.ieee.org/abstract/document/9484776",
+  "codeUrl": "",
+  "projectUrl": ""
+}

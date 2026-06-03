@@ -1,0 +1,18 @@
+{
+  "title": "Deep Neural Network Calibration by Reducing Classifier Shift with Stochastic Masking",
+  "authors": [
+    "Jiani Ni",
+    "He Zhao",
+    "Yibo Yang",
+    "Dandan Guo"
+  ],
+  "venue": "Pattern Recognition",
+  "year": 2026,
+  "tags": [
+    "中科院1区"
+  ],
+  "coverImage": "/publications/ni-2026/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2508.09116",
+  "codeUrl": "",
+  "projectUrl": ""
+}

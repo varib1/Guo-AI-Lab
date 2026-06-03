@@ -1,0 +1,22 @@
+{
+  "title": "PTARL: Prototype-based Tabular Representation Learning via Space Calibration",
+  "authors": [
+    "Hangting Ye",
+    "Wei Fan",
+    "Xiaozhuang Song",
+    "Shun Zheng",
+    "He Zhao",
+    "Dandan Guo",
+    "Yi Chang"
+  ],
+  "venue": "ICLR",
+  "year": 2024,
+  "tags": [
+    "CCAI",
+    "Spotlight"
+  ],
+  "coverImage": "/publications/ye-2024/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2407.05364",
+  "codeUrl": "",
+  "projectUrl": ""
+}

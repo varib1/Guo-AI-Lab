@@ -1,0 +1,21 @@
+{
+  "title": "A Simple yet Effective Subsequence-Enhanced Approach for Cross-Domain NER",
+  "authors": [
+    "Jinpeng Hu",
+    "Dandan Guo",
+    "Yang Liu",
+    "Zhuo Li",
+    "Zhihong Chen",
+    "Xiang Wan",
+    "Tsung-Hui Chang"
+  ],
+  "venue": "AAAI",
+  "year": 2023,
+  "tags": [
+    "CCF-A"
+  ],
+  "coverImage": "/publications/hu-2023/cover.jpg",
+  "paperUrl": "https://ojs.aaai.org/index.php/AAAI/article/view/26515",
+  "codeUrl": "",
+  "projectUrl": ""
+}

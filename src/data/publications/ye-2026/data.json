@@ -1,0 +1,21 @@
+{
+  "title": "LLM as an Algorithmist: Enhancing Anomaly Detectors via Programmatic Synthesis",
+  "authors": [
+    "Hangting Ye",
+    "Jinmeng Li",
+    "He Zhao",
+    "Mingchen Zhuge",
+    "Dandan Guo",
+    "Yi Chang",
+    "Hongyuan Zha"
+  ],
+  "venue": "ICLR",
+  "year": 2026,
+  "tags": [
+    "CCAI"
+  ],
+  "coverImage": "/publications/ye-2026/cover.jpg",
+  "paperUrl": "https://arxiv.org/abs/2510.03904",
+  "codeUrl": "",
+  "projectUrl": ""
+}
